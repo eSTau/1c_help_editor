@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="22ab1207-b1e9-4cba-9063-b5ba27d7adea">
+  <producedTypes>
+    <objectType typeId="60ac92e4-94a9-44f2-a4b6-40908b6a0880" valueTypeId="808d73c5-93c2-4e0b-ae13-e0ff3d469a49"/>
+  </producedTypes>
+  <name>иид_РедакторИнтерактивнойСправки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Редактор интерактивной справки</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6162ab9d-ca13-458e-8a4d-98cf010b2237"/>
+  <defaultForm>ExternalDataProcessor.иид_РедакторИнтерактивнойСправки.Form.рдс_ФормаРедактора</defaultForm>
+  <forms uuid="8145457c-813d-4255-9fa2-98b369e3d781">
+    <name>рдс_ФормаРедактора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма редактирования текста в формате markdown</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="3a964050-9111-4afc-b7ac-a32172be5f83">
+    <name>РедакторОбъектов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактор объектов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="187ad62f-037b-4f9b-b4c8-e8ec00c159d9">
+    <name>IconУказатель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon указатель</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="13a79168-17fc-49b5-a8a0-03604f8cc53a">
+    <name>IconУказательВниз</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon указатель вниз</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="418f64df-b0f0-4696-99d2-2176b3da653d">
+    <name>ИнструментЧтенияКартинкиИзБуфера_Cbtojpeg</name>
+    <synonym>
+      <key>ru</key>
+      <value>Инструмент чтения картинки из буфера cbtojpeg</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="c5128a1a-3f5f-4b56-bc81-0e6a009c0441">
+    <name>IconКнопка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon кнопка</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="aa5508d5-21e8-432f-86a1-6f4e163f946e">
+    <name>IconНадпись</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon надпись</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="d9161ca5-a6a3-4360-80ad-af3bc863d9d7">
+    <name>IconТабличноеПоле</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon табличное поле</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="9839d39e-d12c-43c7-88e8-07c7f7c90c81">
+    <name>IconПолеВвода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon поле ввода</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="2d5bbebb-3d38-4bf9-af5c-d551153a8752">
+    <name>IconФлажок</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon флажок</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="d100d511-9c7d-4b74-a7fc-09148a6e5830">
+    <name>IconПолеКартинки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon поле картинки</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="bcec4c81-63ba-4a59-8791-e0bdf65a40ed">
+    <name>IconКоманднаяПанель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon командная панель</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="3faab331-4d66-4988-a0bd-190c745af77b">
+    <name>IconПанель</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon панель</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="5cfec9b7-1fab-4848-8140-206f519f4a39">
+    <name>IconПолеТабличногоДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon поле табличного документа</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="701bb0dd-5359-4805-a6e9-f0817b2e96c4">
+    <name>IconПолеТекстовогоДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon поле текстового документа</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="333b882e-b7eb-42d3-bb92-178fe2a2d593">
+    <name>IconПолеHtmlДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon поле html документа</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="ade9698e-a97c-40e2-bcd3-99fd72d19f33">
+    <name>IconСкрипт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Icon скрипт</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="80a011f4-18fa-477b-a55c-dbc5bc7bbe0a">
+    <name>ОписаниеОбъекта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Описание объекта</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
