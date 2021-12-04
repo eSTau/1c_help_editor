@@ -9,7 +9,7 @@
     <value>Редактор интерактивной справки</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6162ab9d-ca13-458e-8a4d-98cf010b2237"/>
-  <defaultForm>ExternalDataProcessor.иид_РедакторИнтерактивнойСправки.Form.РедакторHtml</defaultForm>
+  <defaultForm>ExternalDataProcessor.иид_РедакторИнтерактивнойСправки.Form.рдс_ФормаРедактора</defaultForm>
   <forms uuid="8145457c-813d-4255-9fa2-98b369e3d781">
     <name>рдс_ФормаРедактора</name>
     <synonym>
